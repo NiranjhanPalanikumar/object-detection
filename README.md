@@ -6,3 +6,8 @@ Image data was first collected using webcameras of the different hand signs and 
 
 An example of this is shown below:
 
+![hand_sign_1](hand_sign_1.png)
+
+
+![hand_sign_2](hand_sign_2.png)
+
